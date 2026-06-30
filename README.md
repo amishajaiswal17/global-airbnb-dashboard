@@ -52,3 +52,7 @@ Guest behaviour	: 96.6% of guests leave only 1 review ever
 Peak season	: European summer (Apr–Aug) dominates review volume
 Host trust : 66.9% of hosts are identity-verified with profile picture
 COVID-19 impact :	Growth halted in 2019; new listings dropped sharply through 2020–21
+
+🗂️ Dataset
+
+🌐 Maven Analytics (Dataset Source) - https://mavenanalytics.io/data-playground/airbnb-listings-reviews
